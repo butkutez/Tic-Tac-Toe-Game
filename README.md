@@ -49,13 +49,14 @@ TIC_TAC_TOE_GAME
 <u>Start the Game</u>: Run the Python script (python Tic_Tac_Toe.py). The initial 3x3 board will be displayed with row and column numbers.
 
 ```
-0  1  2
--------------
+    0   1   2
+  -------------
 0 |   |   |   |
--------------
+  -------------
 1 |   |   |   |
--------------
+  -------------
 2 |   |   |   |
+  -------------
 ```
 
 <u>Player X starts first.</u>
