@@ -46,34 +46,34 @@ TIC_TAC_TOE_GAME
 
 ## Usage (How to Play)
 
-<u>Start the Game</u>: Run the Python script (python Tic_Tac_Toe.py). The initial 3x3 board will be displayed with row and column numbers.
+- **Start the Game**: Run the Python script (python Tic_Tac_Toe.py). The initial 3x3 board will be displayed with row and column numbers.
 
-```
-    0   1   2
-  -------------
-0 |   |   |   |
-  -------------
-1 |   |   |   |
-  -------------
-2 |   |   |   |
-  -------------
-```
+    ```
+        0   1   2
+    -------------
+    0 |   |   |   |
+    -------------
+    1 |   |   |   |
+    -------------
+    2 |   |   |   |
+    -------------
+    ```
 
-<u>Player X starts first.</u>
+- **Player X starts first.**
 
-<u>On your turn (Player X or O)</u>: 
-- Enter the row number (0–2) when prompted.
+- **On your turn (Player X or O):**
+    - Enter the row number (0–2) when prompted.
 
-- Enter the column number (0–2) when prompted.
+    - Enter the column number (0–2) when prompted.
 
-The program validates the input (checking boundaries and if the cell is empty) and updates the board display.
+    The program validates the input (checking boundaries and if the cell is empty) and updates the board display.
 
-<u>Game End</u>: Players alternate turns until either:
-- One player aligns three of their symbols horizontally, vertically, or diagonally (Win).
+- **Game End**: Players alternate turns until either:
+    - One player aligns three of their symbols horizontally, vertically, or diagonally (Win).
 
-- The board is full without a winner (Draw).
+    - The board is full without a winner (Draw).
 
-The game announces the result.
+- **The game announces the result.**
 
 
 ## The Core Functionality
