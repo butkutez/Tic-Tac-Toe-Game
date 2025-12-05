@@ -99,7 +99,7 @@ This project was completed over **2 days**, adhering to a focused rapid developm
 ## Personal Situation
 This project was completed as a **personal initiative** to practice and solidify several core Python programming concepts in a practical, self-contained application.
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/zivile-butkute/).
+**Connect** with me on [LinkedIn](https://www.linkedin.com/in/zivile-butkute/).
 
 
 
